@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-backbutton",
+  "name": "dfocus-fm-cordova-plugin-backbutton",
   "version": "0.3.0",
   "description": "Cordova Backbutton Plugin",
   "cordova": {
-    "id": "cordova-plugin-backbutton",
+    "id": "dfocus-fm-cordova-plugin-backbutton",
     "platforms": [
       "android"
     ]
